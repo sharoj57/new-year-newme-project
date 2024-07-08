@@ -1,3 +1,112 @@
-p{
-    border: 5px solid cornflowerblue;
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+
+
+.tfont{
+    /* All Thinks Are Possible If You believe */
+position: absolute;
+width: 525px;
+height: 228px;
+left: 845px;
+right: 230px;
+top: 216px;
+bottom: 2785px;
+color: rgb(21, 20, 20);
+font-family: Work Sans;
+font-size: 65px;
+font-weight: 700;
+line-height: 76px;
+letter-spacing: 0%;
+text-align: right;
 }
+.pfont{
+    color: rgb(68, 67, 67);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: right;
+/* There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words */
+position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+right: 230px;
+top: 468px;
+bottom: 2683px;
+margin-top: 30px;
+
+}
+.contact-us{
+    /* Rectangle 1 */
+position: absolute;
+width: 160px;
+height: 64px;
+left: 1210px;
+right: -1210px;
+top: 578px;
+bottom: -578px;
+border-radius: 5px;
+background: rgb(241, 91, 34);
+border-style: none;
+
+color: rgb(255, 255, 255);
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 30px;
+
+
+}
+.gp{
+    position: absolute;
+width: 451px;
+height: 898px;
+left: 277px;
+right: -159px;
+top: 948px;
+bottom: -1122.7px;
+}
+.gpr{
+    display: flex;
+}
+.gititle{
+    color: rgb(21, 20, 20);
+font-size: 40px;
+font-weight: 700;
+line-height: 47px;
+letter-spacing: 0%;
+text-align: left;
+position: absolute;
+width: 288px;
+height: 94px;
+left: 862px;
+right: -734px;
+top: 1178px;
+bottom: -872px;
+margin-left: 134px;
+}
+.girlimage{
+    display: flex;
+}
+.gipara{
+    /* Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock. */
+position: absolute;
+width: 416px;
+height: 104px;
+left: 862px;
+right: -862px;
+top: 1296px;
+bottom: -1000px;
+color: rgb(68, 67, 67);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 30px;
+margin-left: 134px;
+}
+ 
